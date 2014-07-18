@@ -1,4 +1,4 @@
-wot4loa-pgp-poc
+wot4loa-poc
 ===============
 
-Proof-of-concept code how to leverage PGP trust to enhance authentication Level of Assurance
+Proof-of-concept code how to leverage existing trust paths to enhance authentication Level of Assurance
